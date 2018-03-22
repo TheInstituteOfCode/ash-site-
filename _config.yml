@@ -1,0 +1,7 @@
+collections:
+- gal
+
+
+collections:
+  gal:
+    output: true

@@ -1,0 +1,33 @@
+---
+layout: default
+title: portfolio
+---
+
+<section class="flexfliper">
+  <h1>Projects</h1>
+  <hr>
+  {% for gal in site.gal %}
+  <div class="grid padded-2">
+    <div class="col-4_md-12 right">
+      <h3>{{gal.title}}</h3>
+      <p>{{gal.description}}</p>
+      <a href="{{gal.url}}">see more</a>
+    </div>
+    <div class="col-8_md-12 grid">
+      <div class="col-8">
+        <div class="photo-1-bg" style="background-image:url('{{gal.photo-1-path}}')">
+
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="photo-2-bg" style="background-image:url('{{gal.photo-2-path}}')">
+        </div>
+      </div>
+      <div class="col-12">
+        <div class="photo-3-bg" style="background-image:url('{{gal.photo-3-path}}')">
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</section>

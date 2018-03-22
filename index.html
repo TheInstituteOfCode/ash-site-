@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<section>
+<h2>my Dog, my Van and my Journey</h2>
+<hr>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</section>
+
+
+<section class="flexfliper">
+  <h2>Recent Trips</h2>
+  <hr>
+  {% for gal in site.gal limit:4 %}
+  <div class="grid-top padded-2">
+    <div class="col-5_sm-12 right">
+      <h3>{{gal.title}}</h3>
+      <p>{{gal.description}}</p>
+      <a href="{{gal.url}}">see more</a>
+    </div>
+    <div class="col-7_sm-12 grid">
+      <div class="col-8">
+        <div class="photo-1-bg" style="background-image:url({% for photos in gal.photos limit:1 %}{{photos.path}}
+        {% endfor %}
+        )">
+
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="photo-2-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:1 %}{{photos.path}}
+        {% endfor %})">
+        </div>
+      </div>
+      <div class="col-12">
+        <div class="photo-3-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:2 %}{{photos.path}}
+        {% endfor %})">
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+  <div class="right">
+    <a href="/port">See all my Portfolio</a>
+  </div>
+
+</section>

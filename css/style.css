@@ -1,0 +1,192 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+img{
+  max-width: 100%;
+}
+[class*=grid-], [class*=grid_], [class~=grid]{
+  margin: 0;
+}
+
+[class*=col-], [class*=col_], [class~=col]{
+  padding: 2%;
+}
+
+/* general styles */
+
+header{
+  padding: 2%;
+  background-color: #eee
+}
+  section, footer{
+  padding: 1rem 5%;
+}
+
+header nav{
+  margin-top: 2rem;
+}
+
+header a{
+  padding: 1%;
+}
+
+hr{
+  margin: 2% -1.5%;
+}
+
+/* helper */
+
+.overlay-light{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.overlay-dark{
+    background-color: rgba(7, 7, 7, 0.2);
+    color: #fff
+}
+
+.fill{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width:100%
+}
+
+.flex-center{
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+[class*=bg]{
+  background-position: center;
+  background-size: cover;
+}
+
+.padded-2{
+  padding: 2%;
+}
+
+.right{
+  text-align:right;
+}
+.center{
+  text-align: center;
+}
+
+/* typographery  */
+
+h1,h2,h3,h4{
+  font-family: serif;
+}
+h1{
+  font-size: 3rem;
+}
+h2{
+  font-size: 2.5rem;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+p{
+  font-size: 1.3rem;
+  line-height: 1.4;
+  font-family: sans-serif;
+  margin-bottom: 1rem;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+  -webkit-transition: 1s;
+  transition: 1s;
+  display: inline-block;
+}
+a:hover{
+  -webkit-transform: scale(1.2);
+  transform: scale (1.2);
+}
+
+/* default */
+
+footer{
+  background-color: #999;
+  padding: 3%;
+}
+
+input,textarea{
+  width: 80%;
+  display: block;
+  margin: 2% auto;
+  padding: 2%
+}
+
+/* trips */
+
+.img-spacer img{
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+
+.index-banner{
+    background-image: url('https://source.unsplash.com/random/800x800');
+    background-color: orange;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    text-align: center;
+    padding: 0;
+}
+
+
+
+.flexfliper >  [class*=grid]:nth-child(2n){
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+.flexfliper >  [class*=grid]:nth-child(2n) .right{
+ text-align: left;
+}
+
+.photo-1-bg{
+  padding-bottom: 30vw;
+  background-color: darkgreen;
+}
+
+
+.photo-2-bg{
+  padding-bottom: 30vw;
+  background-color: darkred;
+}
+
+.photo-3-bg{
+  padding-bottom: 30vw;
+  background-color: pink;
+}
+
+
+/* mobile */
+
+@media all and (max-width: 768px){
+  .mob-center{
+    text-align: center;
+  }
+
+}

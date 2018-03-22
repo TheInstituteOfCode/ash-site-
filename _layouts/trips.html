@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section class="grid">
+  <div class="col-8 img-spacer">
+    {% for photo in page.photos %}
+    <img src="{{photo.path}}" alt="{{photo.alt}}">
+      {% endfor %}
+  </div>
+  <div class="col-4">
+    <h1>{{page.title}}</h1>
+    <p>{{content}}</p>
+  </div>
+</section>
