@@ -1,7 +1,10 @@
 ---
 layout: default
+banner: true
+title: Ashley and the Van
+banner_path:  https://source.unsplash.com/random/700x800
 ---
-<section>
+<section class="editable">
 <h2>my Dog, my Van and my Journey</h2>
 <hr>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -9,7 +12,7 @@ layout: default
 
 
 <section class="flexfliper">
-  <h2>Recent Trips</h2>
+  <h2 class="editable">Recent Trips</h2>
   <hr>
   {% for gal in site.gal limit:4 %}
   <div class="grid-top padded-2">
@@ -20,10 +23,11 @@ layout: default
     </div>
     <div class="col-7_sm-12 grid">
       <div class="col-8">
-        <div class="photo-1-bg" style="background-image:url({% for photos in gal.photos limit:1 %}{{photos.path}}
+        <div class="photo-1-bg" style="background-image:url({% for photos in gal.photos limit:1 %}
+        {{photos.path}}
         {% endfor %}
         )">
-
+<!-- " -->
         </div>
       </div>
       <div class="col-4">

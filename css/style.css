@@ -24,7 +24,7 @@ header{
   background-color: #eee
 }
   section, footer{
-  padding: 1rem 5%;
+  padding: 3rem 5%;
 }
 
 header nav{
@@ -87,8 +87,10 @@ hr{
 
 /* typographery  */
 
+body{font-family: 'Merriweather', serif;}
+
 h1,h2,h3,h4{
-  font-family: serif;
+font-family: 'Merriweather Sans', sans-serif;
 }
 h1{
   font-size: 3rem;
