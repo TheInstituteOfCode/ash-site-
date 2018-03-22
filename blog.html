@@ -2,13 +2,18 @@
 layout: default
 title: blog
 ---
+<section>
+
 <h1>blog</h1>
 <hr>
 {% for post in site.posts %}
 
 <a href="{{post.url}}">
   <div class="grid">
-    <div class="blog-text">
+    <div class="col blog-pic" style="background-image:url('{{post.banner_path}}')">
+
+    </div>
+    <div class="blog-text col-9">
       <h2>{{post.title}}</h2>
       <p>{{post.description}}</p>
     </div>
@@ -16,3 +21,6 @@ title: blog
 </a>
 
 {% endfor %}
+
+
+</section>

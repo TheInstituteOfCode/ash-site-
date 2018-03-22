@@ -9,8 +9,8 @@
   </head>
   <body>
     {% if page.banner == true %}
-    <header class="index-banner" style="background-image:url('{{page.banner_path}}')">
-      <div class="overlay-dark flex-center fill"> 
+    <header class="index-banner" style="background-image:url('{{page.banner_path}}';background-position:{{page.banner_horizontal_focus}}{{page.banner_vertical_focus}})">
+      <div class="overlay-dark flex-center fill">
         <div class="">
           <h1>{{page.title}}</h1>
           <nav>

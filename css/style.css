@@ -85,6 +85,15 @@ hr{
   text-align: center;
 }
 
+.float-right{
+  float:right;
+  clear: both;
+}
+.float-left{
+  float: left;
+  clear: both;
+}
+
 /* typographery  */
 
 body{font-family: 'Merriweather', serif;}
@@ -113,11 +122,10 @@ p{
 a{
   color: inherit;
   text-decoration: none;
-  -webkit-transition: 1s;
-  transition: 1s;
+  transition:color 0s, transform 1s, -webkit-transform 1s;
   display: inline-block;
 }
-a:hover{
+header a:hover{
   -webkit-transform: scale(1.2);
   transform: scale (1.2);
 }
@@ -182,6 +190,20 @@ input,textarea{
   padding-bottom: 30vw;
   background-color: pink;
 }
+
+/* about */
+
+.about-sec{
+  min-height:73vw;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  width: 30%;
+  margin: 1.5rem;
+}
+
+
 
 
 /* mobile */
