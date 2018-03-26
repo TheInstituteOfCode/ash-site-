@@ -85,6 +85,8 @@ hr{
   text-align: center;
 }
 
+.clear{clear: both;}
+
 .float-right{
   float:right;
   clear: both;
@@ -152,8 +154,7 @@ input,textarea{
 }
 
 
-.index-banner{
-    background-image: url('https://source.unsplash.com/random/800x800');
+.banner{
     background-color: orange;
     background-position: center;
     background-size: cover;
@@ -192,10 +193,6 @@ input,textarea{
 }
 
 /* about */
-
-.about-sec{
-  min-height:73vw;
-}
 
 .profile-pic{
   border-radius: 50%;
