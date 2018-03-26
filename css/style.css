@@ -32,7 +32,7 @@ header nav{
 }
 
 header a{
-  padding: 1%;
+  padding: .3rem;
 }
 
 hr{
@@ -47,6 +47,11 @@ hr{
 .overlay-dark{
     background-color: rgba(7, 7, 7, 0.2);
     color: #fff
+}
+
+.dark-sec{
+  background-color: #202030;
+  color: #BCD4DE;
 }
 
 .fill{
@@ -72,6 +77,10 @@ hr{
 [class*=bg]{
   background-position: center;
   background-size: cover;
+}
+
+.margin-bottom-5{
+  margin-bottom: 5%;
 }
 
 .padded-2{
