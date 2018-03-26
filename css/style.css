@@ -27,9 +27,6 @@ header{
   padding: 3rem 5%;
 }
 
-header nav{
-  margin-top: 2rem;
-}
 
 header a{
   padding: .3rem;
@@ -40,6 +37,13 @@ hr{
 }
 
 /* helper */
+
+.drop-svg{
+width: 3rem;
+position: absolute;
+bottom: 1rem;
+right: calc(50% - 1.5rem);
+}
 
 .overlay-light{
   background-color: rgba(255, 255, 255, 0.2);
@@ -81,6 +85,10 @@ hr{
 
 .margin-bottom-5{
   margin-bottom: 5%;
+}
+
+.margin-top-2rem{
+  margin-top: 2rem
 }
 
 .padded-2{
@@ -136,9 +144,9 @@ a{
   transition:color 0s, transform 1s, -webkit-transform 1s;
   display: inline-block;
 }
-header a:hover{
+header nav a:hover{
   -webkit-transform: scale(1.2);
-  transform: scale (1.2);
+  transform: scale(1.2);
 }
 
 /* default */
@@ -186,18 +194,18 @@ input,textarea{
 }
 
 .photo-1-bg{
-  padding-bottom: 30vw;
+  padding-bottom: 25vw;
   background-color: darkgreen;
 }
 
 
 .photo-2-bg{
-  padding-bottom: 30vw;
+  padding-bottom:25vw;
   background-color: darkred;
 }
 
 .photo-3-bg{
-  padding-bottom: 30vw;
+  padding-bottom: 25vw;
   background-color: pink;
 }
 
@@ -210,6 +218,15 @@ input,textarea{
 }
 
 
+/* blog */
+
+.blog-pic{
+  min-height: 30vw;
+  background-position: center;
+  background-size:cover;
+  margin-bottom: 1rem;
+  color: #fff;
+}
 
 
 /* mobile */
@@ -219,4 +236,22 @@ input,textarea{
     text-align: center;
   }
 
+}
+
+
+@media all and (max-width: 576px){
+  section{
+    padding: 3rem 10%
+  }
+
+  .profile-pic{
+    width: 50%;
+    margin: 1.5rem auto;
+    display: block;
+    float: none;
+  }
+
+  .mob-hide{
+    display: none
+  }
 }
