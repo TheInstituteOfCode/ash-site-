@@ -170,6 +170,15 @@ input,textarea{
   width: 100%;
 }
 
+.photo_description{
+  padding: .5rem;
+  margin-bottom: 20px;
+}
+
+.photo_description p{
+  margin: 0
+}
+
 
 .banner{
     background-color: orange;
