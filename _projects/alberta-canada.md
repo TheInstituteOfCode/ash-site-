@@ -6,9 +6,9 @@ photos:
     description:
   - path: /uploads/untitled-1-of-1-6-1-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-12-2-1.jpg
-    description:
   - path: /uploads/untitled-1-of-1-10-2-1.jpg
+    description:
+  - path: /uploads/untitled-1-of-1-12-2-1.jpg
     description:
   - path: /uploads/untitled-1-of-1-5-2-1.jpg
     description:
