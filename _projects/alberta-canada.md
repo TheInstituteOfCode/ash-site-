@@ -27,9 +27,10 @@ photos:
   - path: /uploads/untitled-1-of-1-11-2-1.jpg
     description:
 description: >-
-  Death Valley National Park was so much more than I expected. Before arriving,
-  my expectations were pretty low. I assumed it would be just a barren desert,
-  but what I found blew me away.
+  Winter in Canada is truly a magical experience. From frozen bubble lakes and
+  waterfalls, to frosty sunrises, Alberta is the definition of a winter
+  wonderland. Throw in all the winter sports you can imagine and you have a
+  winter holiday destination you've only dreamed about.
 text: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
