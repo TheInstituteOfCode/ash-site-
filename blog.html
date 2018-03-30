@@ -1,26 +1,28 @@
 ---
 layout: default
 title: blog
+banner: true
+banner_path: /uploads/untitled-1-of-1-1.jpg
+banner_vertical_focus: 60%
+banner_horizontal_focus: 50%
 ---
 <section>
 
-<h1>blog</h1>
-<hr>
-{% for post in site.posts %}
-
-<a href="{{post.url}}">
-  <div class="grid margin-bottom-5">
-    <div class="col blog-pic" style="background-image:url('{{post.banner_path}}')">
-
+  <h1>blog</h1>
+  <hr>
+  {% for post in site.posts %}
+  <a href="{{post.url}}">
+    <div class="grid margin-bottom-5">
+      <div class="col blog-pic" style="background-image:url('{{post.banner_path}}')">
+      </div>
+      <div class="blog-text col-9_sm-12">
+        <h2>{{post.title}}</h2>
+        <p>{{post.description}}</p>
+        <p class="right">Read more </p>
+      </div>
     </div>
-    <div class="blog-text col-9_sm-12">
-      <h2>{{post.title}}</h2>
-      <p>{{post.description}}</p>
-    </div>
-  </div>
-</a>
-
-{% endfor %}
+  </a>
+  {% endfor %}
 
 
 </section>
