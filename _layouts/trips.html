@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<section class="grid">
-  <div class="col-4">
+<section class="wall">
+  <div class="brick">
     <h1>{{page.title}}</h1>
     <p>{{page.text}}</p>
   </div>
   {% for photo in page.photos %}
-  <div class="col-4 img-spacer">
+  <div class="brick">
     <img src="{{photo.path}}" alt="{{photo.description}}">
     <div class="dark-sec photo_description">
      <p>
