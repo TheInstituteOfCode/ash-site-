@@ -222,7 +222,7 @@ input,textarea{
 
 .profile-pic{
   border-radius: 50%;
-  width: 30%;
+  width: 20%;
   margin: 1.5rem;
 }
 
@@ -257,6 +257,7 @@ input,textarea{
   .wall{
    max-width: 620px;
 }
+
 
 @media all and (max-width: 700px) {
   .wall{
