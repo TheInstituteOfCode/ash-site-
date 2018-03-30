@@ -1,6 +1,7 @@
 ---
 layout: trips
 title: 'Alberta, Canada'
+date: 2015-4-4
 photos:
   - path: /uploads/untitled-1-of-1-2-2-1.jpg
     description:
@@ -39,4 +40,3 @@ text: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ---
-

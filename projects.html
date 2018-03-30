@@ -10,7 +10,8 @@ banner_horizontal_focus: 50%
 <section class="flexfliper">
   <h1 class="editable">Portfolio</h1>
   <hr>
-  {% for gal in site.projects %}
+  {% assign gal = site.projects | sort: 'date' %}
+  {% for gal in gal reversed %}
   <div class="grid padded-2">
     <div class="col-4_md-12 right">
       <h3>{{gal.title}}</h3>
