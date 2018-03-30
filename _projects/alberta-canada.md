@@ -2,27 +2,29 @@
 layout: trips
 title: 'Alberta, Canada'
 photos:
-  - path: /uploads/untitled-1-of-1-12-1-1.jpg
+  - path: /uploads/untitled-1-of-1-2-2-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-2-1-1.jpg
+  - path: /uploads/untitled-1-of-1-6-1-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-3-2-1.jpg
+  - path: /uploads/untitled-1-of-1-10-2-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-1-1.jpg
+  - path: /uploads/untitled-1-of-1-5-2-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-4-1-1.jpg
+  - path: /uploads/untitled-1-of-1-4-2-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-11-1-1.jpg
+  - path: /uploads/untitled-1-of-1-3-3.jpg
     description:
-  - path: /uploads/untitled-1-of-1-8-1-1.jpg
+  - path: /uploads/untitled-1-of-1-9-2-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-5-1-1.jpg
+  - path: /uploads/untitled-1-of-1-8-2-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-10-1-1.jpg
+  - path: /uploads/untitled-1-of-1-7-1-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-6-2.jpg
+  - path: /uploads/untitled-1-of-1-13-1-1.jpg
     description:
-  - path: /uploads/untitled-1-of-1-9-1-1.jpg
+  - path: /uploads/untitled-1-of-1-12-2-1.jpg
+    description:
+  - path: /uploads/untitled-1-of-1-11-2-1.jpg
     description:
 description: >-
   Death Valley National Park was so much more than I expected. Before arriving,
@@ -36,3 +38,4 @@ text: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ---
+
