@@ -3,7 +3,7 @@ $(document).ready(function() {
   $('.wall').masonry({
     // options
     itemSelector: '.brick',
-    columnWidth: 250,
+    columnWidth: 300,
     gutter: 20
   });
 
