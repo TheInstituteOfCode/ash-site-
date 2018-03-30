@@ -9,7 +9,12 @@ layout: default
   </div>
   {% for photo in page.photos %}
   <div class="col-4 img-spacer">
-    <img src="{{photo.path}}" alt="{{photo.alt}}">
+    <img src="{{photo.path}}" alt="{{photo.description}}">
+    <div class="dark-sec photo_description">
+     <p>
+       {{photo.description}}
+     </p>
+    </div>
   </div>
   {% endfor %}
 </section>
