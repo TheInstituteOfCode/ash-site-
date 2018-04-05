@@ -236,6 +236,15 @@ input,textarea{
   color: #fff;
 }
 
+.blog img{
+  display: block;
+  margin: 2rem auto;
+}
+.blog h6{
+  font-size: 10px;
+  
+}
+
 /* projects */
 
 .brick{
