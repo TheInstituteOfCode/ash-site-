@@ -149,6 +149,10 @@ header nav a:hover{
   transform: scale(1.2);
 }
 
+header svg {
+  fill:#fff;
+}
+
 /* default */
 
 footer{
