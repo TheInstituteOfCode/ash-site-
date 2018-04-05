@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans" rel="stylesheet">
   <title>{{page.title}}</title>
   <link rel="stylesheet" href="/css/lightbox.css">
@@ -42,13 +43,11 @@
     </nav>
   </header>
   {% endif %}
-<span id="first-sec-finder"></span>
+  <span id="first-sec-finder"></span>
   {{content}}
-{% if page.url != 'projects' %}
-<section class="no-padding">
-  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe  src="//lightwidget.com/widgets/be8ccf0faede5d4dae48250070b9db1f.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
-</section>
-{% endif %}
+  <section class="no-padding">
+    <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe  src="//lightwidget.com/widgets/be8ccf0faede5d4dae48250070b9db1f.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+  </section>
   <footer id="contact" class="center dark-sec clear">
     {% if page.url != "/work.html" %}
     <form action="https://formspree.io/your@email.com"
