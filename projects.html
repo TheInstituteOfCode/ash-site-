@@ -16,29 +16,36 @@ banner_horizontal_focus: 50%
   {% for gal in gal reversed %}
   <div class="grid padded-2">
     <div class="col-4_md-12 right">
-      <a href="#"></a>
-      <h3>{{gal.title}}</h3>
+      <a href="{{gal.url}}">
+        <h3>{{gal.title}}</h3>
+      </a>
       <p>{{gal.description}}</p>
       <a href="{{gal.url}}">see more</a>
     </div>
     <div class="col-8_md-12 grid">
       <div class="col-8">
+        <a href="{{gal.url}}">
         <div class="photo-1-bg" style="background-image:url({% for photos in gal.photos limit:1 %}
         {{photos.path}}
         {% endfor %})">
 
+      </a>
         </div>
       </div>
       <div class="col-4">
+        <a href="{{gal.url}}">
         <div class="photo-2-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:1 %}
         {{photos.path}}
         {% endfor %})">
+      </a>
         </div>
       </div>
       <div class="col-12">
+        <a href="{{gal.url}}">
         <div class="photo-3-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:2 %}
         {{photos.path}}
         {% endfor %})">
+      </a>
         </div>
       </div>
     </div>
