@@ -238,11 +238,12 @@ input,textarea{
 
 .blog img{
   display: block;
-  margin: 2rem auto;
+  margin: 2rem auto .2rem;
 }
 .blog h6{
   font-size: 10px;
-  
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
 /* projects */
