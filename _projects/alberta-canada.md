@@ -5,28 +5,40 @@ date: 2015-04-04 00:00:00
 photos:
   - path: /uploads/untitled-1-of-1-2-2-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-6-1-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-10-2-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-12-2-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-5-2-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-4-2-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-3-3.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-9-2-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-8-2-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-7-1-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-13-1-1.jpg
     description:
+    high-res_path:
   - path: /uploads/untitled-1-of-1-11-2-1.jpg
     description:
+    high-res_path:
 description: >-
   Winter in Canada is truly a magical experience. From frozen bubble lakes and
   waterfalls, to frosty sunrises, Alberta is the definition of a winter
@@ -43,4 +55,3 @@ text: >-
   ice-fishing, snowshoeing, or any other winter sport you've been dreaming of.
   Alberta truly is a winter wonderland!
 ---
-
