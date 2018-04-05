@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+sub_title: vanlifing
 banner: true
 banner_path: /uploads/untitled-1-of-1-1.jpg
 banner_vertical_focus: 60%
@@ -9,7 +10,7 @@ banner_horizontal_focus: 50%
 
 <section>
 
-  <h1>blog</h1>
+  <h2>{{page.sub_title}}</h2>
   <hr>
   {% for post in site.posts %}
   <a href="{{post.url}}">
