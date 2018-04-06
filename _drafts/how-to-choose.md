@@ -3,17 +3,15 @@ layout: default
 title: How to Choose a Van
 banner_path: 'https://source.unsplash.com/random/700x800'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  So, you’ve finally decided to buy a van. Hooray! Congratulations and let me
+  officially welcome you to the van life nation! So where do you go from here?
+  If you’ve made it this far, you probably already have an idea of what you’re
+  looking for. If not, let’s start with the basics.
 ---
 
 So, you’ve finally decided to buy a van. Hooray! Congratulations and let me officially welcome you to the van life nation! So where do you go from here? If you’ve made it this far, you probably already have an idea of what you’re looking for. If not, let’s start with the basics.
 
-![](/uploads/conner-murphy-345177-unsplash-1-1.jpg)Photo by Conner Murphy on Unsplash
+###### ![](/uploads/conner-murphy-345177-unsplash-1-1.jpg)Photo by Conner Murphy on Unsplash
 
 **What do you want to use your van for?**
 
@@ -38,6 +36,8 @@ If you’re the extra adventurous type, you probably want to invest in a 4x4 van
 **Is a bathroom necessary for you?**
 
 If you plan on using campgrounds most of the time, you probably don’t need a van with a bathroom. You can always use rest stops and gas stations for toilet breaks, and if you need a shower, there are a lot of portable options. I decided to live in mine full-time, so a shower and toilet was a necessity. I don't mind the extra hassle; having to fill water and empty tanks every few days. It's a small price to pay for comfortable and easy midnight bathroom breaks, and the joy of having a hot, although short, shower once in awhile.&nbsp;
+
+![](/uploads/untitled-1-of-1-22.jpg)
 
 **How much cooking do you plan on doing?**
 
