@@ -9,9 +9,13 @@ description: >-
   looking for. If not, let’s start with the basics.
 ---
 
+&nbsp;
+
 So, you’ve finally decided to buy a van. Hooray! Congratulations and let me officially welcome you to the van life nation! So where do you go from here? If you’ve made it this far, you probably already have an idea of what you’re looking for. If not, let’s start with the basics.
 
 ###### ![](/uploads/conner-murphy-345177-unsplash-1-1.jpg)Photo by Conner Murphy on Unsplash
+
+&nbsp;
 
 **What do you want to use your van for?**
 
@@ -19,17 +23,23 @@ Are you a weekend warrior looking for an adventure vehicle to explore awesome pl
 
 ###### ![](/uploads/paul-trienekens-304789-unsplash-1-1.jpg)Photo by Paul Trienekens on Unsplash
 
+&nbsp;
+
 **To convert or not to convert, that is the question…**
 
 Sadly my van is not the “Instagram” van that everyone desires. It’s not an old, cute Volkswagen camper or an amazing sprinter van conversion. My choice was based on situation, convenience, and price. As much as I would love an old camper van, I don’t possess the mechanical skills necessary to keep it going. Nor do I have the bank account to take it to the shop frequently. Instead I chose to get a van with low mileage that was mechanically sound. I also decided not to convert my van. Conversions take time and skill, neither of which I have. Maybe one day I’ll buy a cool Sprinter van to make my own, but getting on the road as fast as possible was my goal. Adventure was waiting and I didn’t want to spend 3 months or more getting my house on wheels ready!
 
 ###### ![](/uploads/magne-traeland-518071-unsplash-1-1.jpg)Photo by Magne Tr&aelig;land on Unsplash
 
+&nbsp;
+
 **Where do you want to take your van?**
 
 If you’re the extra adventurous type, you probably want to invest in a 4x4 van. They can be difficult to find and costly, but oh so worth it. I spend most of my time camping in National Forests, and sometimes I get nervous driving my van down long dirt roads. I have to be careful not to drive down muddy, snowy or sandy roads because my van would get stuck very easily. It is possible to convert a van into 4x4, but I’ve heard it can cost in the range of about $10K. At that price it might be easier to just buy a 4x4 from the start, but if money isn’t an issue, then I highly recommend a 4x4 for the ultimate ad-van-ture!
 
 ###### ![](/uploads/jonatan-pie-230174-unsplash-1-1.jpg)Photo by Jonatan Pie on Unsplash
+
+&nbsp;
 
 **Is a bathroom necessary for you?**
 
@@ -38,6 +48,8 @@ If you plan on using campgrounds most of the time, you probably don’t need a v
 ![](/uploads/untitled-1-of-1-22.jpg)
 
 ###### Photo by Ashley Van Meter
+
+&nbsp;
 
 **How much cooking do you plan on doing?**
 
@@ -48,6 +60,8 @@ If you plan to use your van for short adventures, you might find that a cooler a
 If you're a family, you might want to consider something slightly larger than a van. Two people can be comfortable in a van, but if you plan on having children, or already do, you may appreciate the extra size a small RV or bus offers. You can buy an RV already done, or find a small, or large, school bus to convert. Consider the storage needed for each person, and don't forget to include space for your pets. Sophie practically counts as a person in our van! She has her own drawer dedicated to toys, leashes, and her backpack, and then she has additional storage in the back for her dog food. In addition, she has a dog bed in the front, between the driver and passenger seat. You'd be surprised (or maybe not!) how quickly your storage fills up once you start bringing in kitchen supplies, food, clothes, shoes, toiletries, plus everything you need for your hobbies.
 
 ###### ![](/uploads/frankie-valentine-565054-unsplash-1-1.jpg)Photo by Frankie Valentine on Unsplash
+
+&nbsp;
 
 **Where do you go from here?**
 
