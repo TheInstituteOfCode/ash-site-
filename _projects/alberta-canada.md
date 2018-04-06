@@ -4,29 +4,29 @@ title: 'Alberta, Canada'
 date: 2015-04-04 00:00:00
 photos:
   - path: /uploads/untitled-1-of-1-2-2-1.jpg
-    description:
+    description: Sunrise at Vermillion Lakes
   - path: /uploads/untitled-1-of-1-6-1-1.jpg
-    description:
+    description: The frozen methane bubbles in Abraham Lake
   - path: /uploads/untitled-1-of-1-10-2-1.jpg
-    description:
+    description: Starry skies over Two Jack Lake
   - path: /uploads/untitled-1-of-1-12-2-1.jpg
-    description:
+    description: Sunrise at Castle Mountain
   - path: /uploads/untitled-1-of-1-5-2-1.jpg
-    description:
+    description: 'I''m not sure which mountain this is, but it sure is beautiful!'
   - path: /uploads/untitled-1-of-1-4-2-1.jpg
-    description:
+    description: Sunrise at Two Jack Lake
   - path: /uploads/untitled-1-of-1-3-3.jpg
-    description:
+    description: Anyone up for a little ice fishing?
   - path: /uploads/untitled-1-of-1-9-2-1.jpg
-    description:
+    description: Snow covered mountains and trains? Yes please!
   - path: /uploads/untitled-1-of-1-8-2-1.jpg
-    description:
+    description: Sunset on Mount Rundle and Banff town
   - path: /uploads/untitled-1-of-1-7-1-1.jpg
-    description:
+    description: Cross country skiers on Emerald Lake
   - path: /uploads/untitled-1-of-1-13-1-1.jpg
-    description:
+    description: The famous Johnston Canyon
   - path: /uploads/untitled-1-of-1-11-2-1.jpg
-    description:
+    description: Sunrise at Lake Louise
 description: >-
   Winter in Canada is truly a magical experience. From frozen bubble lakes and
   waterfalls, to frosty sunrises, Alberta is the definition of a winter
