@@ -1,7 +1,7 @@
 ---
 layout: trips
 title: 'Alberta, Canada'
-date: 2015-4-4
+date: 2015-04-04 00:00:00
 photos:
   - path: /uploads/untitled-1-of-1-2-2-1.jpg
     description:
@@ -33,10 +33,14 @@ description: >-
   wonderland. Throw in all the winter sports you can imagine and you have a
   winter holiday destination you've only dreamed about.
 text: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  There isn't a bad season to visit Alberta, but winter is definitely a special
+  time. The Canadian Rockies are covered in snow, the lakes are frozen over, and
+  most importantly, the crowds die down and you practically have the whole place
+  to yourself. Visit Banff to watch sunrise over Vermillion Lakes, and drive the
+  Icefields Parkway towards Jasper to marvel at the frozen waterfalls and
+  snow-covered peaks. Detour to Abraham Lake, where you can view frozen methane
+  bubbles under the lakes surface. Try your hand at skiing, snowboarding,
+  ice-fishing, snowshoeing, or any other winter sport you've been dreaming of.
+  Alberta truly is a winter wonderland!
 ---
+
