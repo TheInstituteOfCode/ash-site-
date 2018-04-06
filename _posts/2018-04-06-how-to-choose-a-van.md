@@ -25,7 +25,7 @@ Sadly my van is not the “Instagram” van that everyone desires. It’s not an
 
 ![](/uploads/magne-traeland-518071-unsplash-1-1.jpg)
 
-Photo by Magne Tr&aelig;land on Unsplash
+Photo by Magne Træland on Unsplash
 
 **Where do you want to take your van?**
 
@@ -35,17 +35,17 @@ If you’re the extra adventurous type, you probably want to invest in a 4x4 van
 
 **Is a bathroom necessary for you?**
 
-If you plan on using campgrounds most of the time, you probably don’t need a van with a bathroom. You can always use rest stops and gas stations for toilet breaks, and if you need a shower, there are a lot of portable options. I decided to live in mine full-time, so a shower and toilet was a necessity. I don't mind the extra hassle; having to fill water and empty tanks every few days. It's a small price to pay for comfortable and easy midnight bathroom breaks, and the joy of having a hot, although short, shower once in awhile.&nbsp;
+If you plan on using campgrounds most of the time, you probably don’t need a van with a bathroom. You can always use rest stops and gas stations for toilet breaks, and if you need a shower, there are a lot of portable options. I decided to live in mine full-time, so a shower and toilet was a necessity. I don't mind the extra hassle; having to fill water and empty tanks every few days. It's a small price to pay for comfortable and easy midnight bathroom breaks, and the joy of having a hot, although short, shower once in awhile.
 
 ![](/uploads/untitled-1-of-1-22.jpg)
 
 **How much cooking do you plan on doing?**
 
-If you plan to use your van for short adventures, you might find that a cooler and portable stove are enough. Since I live in my van full-time, I decided to get a van with a small fridge and stove. I wanted the ability to cook in my van if the weather is bad, and the freedom to store food and drinks for longer periods of time. My fridge, stove and water heater all run off a 5-gallon propane tank, which I fill about every two weeks.&nbsp;
+If you plan to use your van for short adventures, you might find that a cooler and portable stove are enough. Since I live in my van full-time, I decided to get a van with a small fridge and stove. I wanted the ability to cook in my van if the weather is bad, and the freedom to store food and drinks for longer periods of time. My fridge, stove and water heater all run off a 5-gallon propane tank, which I fill about every two weeks.
 
 **How many people are going to be in the van?**
 
-If you're a family, you might want to consider something slightly larger than a van. Two people can be comfortable in a van, but if you plan on having children, or already do, you may appreciate the extra size a small RV or bus offers. You can buy an RV already done, or find a small, or large, school bus to convert. Consider the storage needed for each person, and don't forget to include space for your pets. Sophie practically counts as a person in our van! She has her own drawer dedicated to toys, leashes, and her backpack, and then she has additional storage in the back for her dog food. In addition, she has a dog bed in the front, between the driver and passenger seat. You'd be surprised (or maybe not!) how quickly your storage fills up once you start bringing in kitchen supplies, food, clothes, shoes, toiletries, plus everything you need for your hobbies.&nbsp;
+If you're a family, you might want to consider something slightly larger than a van. Two people can be comfortable in a van, but if you plan on having children, or already do, you may appreciate the extra size a small RV or bus offers. You can buy an RV already done, or find a small, or large, school bus to convert. Consider the storage needed for each person, and don't forget to include space for your pets. Sophie practically counts as a person in our van! She has her own drawer dedicated to toys, leashes, and her backpack, and then she has additional storage in the back for her dog food. In addition, she has a dog bed in the front, between the driver and passenger seat. You'd be surprised (or maybe not!) how quickly your storage fills up once you start bringing in kitchen supplies, food, clothes, shoes, toiletries, plus everything you need for your hobbies.
 
 ![](/uploads/frankie-valentine-565054-unsplash-1-1.jpg)Photo by Frankie Valentine on Unsplash
 
