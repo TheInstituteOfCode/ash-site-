@@ -244,6 +244,11 @@ input,textarea{
   color: #fff;
 }
 
+.blog a {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 .blog img{
   display: block;
   margin: 2rem auto .2rem;
