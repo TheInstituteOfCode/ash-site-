@@ -14,7 +14,7 @@ img{
 }
 
 [class*=col-], [class*=col_], [class~=col]{
-  padding: 2%;
+  padding: .5rem;
 }
 
 /* general styles */
