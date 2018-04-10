@@ -12,8 +12,8 @@ banner_horizontal_focus: 50%
   <h2>{{page.sub_title}}</h2>
   <hr>
   {% for post in site.posts %}
-  <a href="{{post.url}}">
-    <div class="grid margin-bottom-5">
+  <a href="{{post.url}}" class="full-width">
+    <div class="grid margin-end-5 ">
       <div class="col blog-pic" style="background-image:url('{{post.banner_path}}')">
       </div>
       <div class="blog-text col-9_sm-12">

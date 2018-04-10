@@ -12,7 +12,7 @@
 <body>
   {% if page.banner == true %}
   <header class="banner" style="background-image:url('{{page.banner_path}}');background-position:{{page.banner_horizontal_focus}} {{page.banner_vertical_focus}};">
-    <div class="overlay-dark flex-center fill">
+    <div class="overlay-dark flex-center fill height-full">
       <div class="">
         <h1>{{page.title}}</h1>
         <nav class="margin-top-2rem">
@@ -25,14 +25,13 @@
       </div>
 
     </div>
-    <a href="#first-sec-finder">
+    <a class="svg-link" href="#first-sec-finder">
       <svg viewBox="0 0 10 10" class="drop-svg">
         <path d="M 0 0 L 5 4 L 10 0 L 5 7 Z"/>
       </svg>
     </a>
-  </header>
   {% else %}
-  <header class="grid-spaceBetween-center">
+  <header class="grid-spaceBetween-middle">
     <h2 class="col_sm-12 mob-center">Ashley and the Van</h2>
     <nav class="col_sm-12 right mob-center">
       <a href="/">Home</a>
@@ -41,9 +40,9 @@
       <a href="/blog">Blog</a>
       <a href="/contact">Contact</a>
     </nav>
-  </header>
   {% endif %}
   <span id="first-sec-finder"></span>
+</header>
   {{content}}
   <section class="no-padding">
     <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/62c7bce47f4a5cee88e94cf88bfaa31f.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>

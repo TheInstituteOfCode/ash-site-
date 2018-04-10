@@ -24,14 +24,14 @@ banner_horizontal_focus: 50%
     </div>
     <a href="{{gal.url}}" class="col-8_md-12 grid">
       <div class="col-8">
-        <div class="photo-1-bg" style="background-image:url({% for photos in gal.photos limit:1 %}
+        <div class="photo-1-bg margin-end-5" style="background-image:url({% for photos in gal.photos limit:1 %}
         {{photos.path}}
         {% endfor %})">
 
         </div>
       </div>
       <div class="col-4">
-        <div class="photo-2-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:1 %}
+        <div class="photo-2-bg margin-end-5" style="background-image:url({% for photos in gal.photos limit:1 offset:1 %}
         {{photos.path}}
         {% endfor %})">
         </div>

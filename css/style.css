@@ -20,7 +20,7 @@ img{
 /* general styles */
 
 header{
-  padding: 2%;
+  padding:1% 2%;
   background-color: #eee
 }
   section, footer{
@@ -66,6 +66,15 @@ right: calc(50% - 1.5rem);
   width:100%
 }
 
+.height-full{
+  height: 100vh;
+}
+
+.full-width{
+  display: block;
+  width: 100%;
+}
+
 .flex-center{
   display:-webkit-box;
   display:-ms-flexbox;
@@ -83,7 +92,11 @@ right: calc(50% - 1.5rem);
   background-size: cover;
 }
 
-.margin-bottom-5{
+.margin-end-2{
+  margin-bottom: 2%;
+}
+
+.margin-end-5{
   margin-bottom: 5%;
 }
 
@@ -126,6 +139,7 @@ font-family: 'Merriweather Sans', sans-serif;
 }
 h1{
   font-size: 3rem;
+  margin: 2rem 0;
 }
 h2{
   font-size: 2.5rem;
@@ -156,6 +170,21 @@ header nav a:hover{
 header svg {
   fill:#fff;
 }
+
+
+header .svg-link{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 2.7rem;
+  right:0;
+}
+
+#first-sec-finder{
+  position: absolute;
+  bottom: -1rem;
+}
+
 
 /* default */
 
@@ -231,6 +260,8 @@ input,textarea{
 .profile-pic{
   border-radius: 50%;
   width: 250px;
+  padding: 0%;
+  margin: 2%;
 }
 
 
