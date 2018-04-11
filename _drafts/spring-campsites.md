@@ -7,9 +7,15 @@ description:
 
 Spring is here and what better way to celebrate than to get outdoors! While not areas are accessible yet, you can find great spring camping from the coast to the desert. Here are a few of my favorites from this year!
 
+**Mud Lake Trailhead&nbsp;**
+
+As soon as the snow clears, I head straight for the forest. I arrived in Lassen National Forest in early April, and was expecting the forest roads to still be covered in snow. To my surprise, there was almost no snow on the ground at all. While cold at night, the temperature was in the 60's during the day. This tiny campground is located on the right, off highway 44, a few miles before you get to Old Station. It's also located along the Pacific Crest Trail, so you can hike along one of the world's most famous trails, and if you're lucky you might meet a thru-hiker! There are 5 designated spots around a vault toilet, which was locked when I visited. Only two of the sites have fire pits, and only one of those has a picnic table. This was my second visit to this campsite, and both times I've had the place to myself. It's only 20 minutes from the National Park, where you can hike Lassen Peak, the park's active volcano. The campground barely has service, so it's a nice place to go if you want a peaceful spot in the woods. The road is pretty close so there is occasional car noise, but not enough to keep me from coming back in the future.
+
+**Cost- free!**
+
 **Alabama Hills&nbsp;**
 
-This was my first stop and quite possibly my favorite! The Alabama Hills are a recreation area in the Eastern Sierras of Californian just outside the town of Lone Pine. It's a Bureau of Land Management area (BLM), which means its protected, public land for you to enjoy. The area is covered in large, rounded rock formations, at the base of snow covered mountains. There are nearly 30,000 acres of wilderness for you to explore here, and dispersed camping is allowed for 14 days.&nbsp;
+This was my first visit to the Alabama Hills and I absolutely loved it there! The Alabama Hills are a recreation area in the Eastern Sierras of Californian just outside the town of Lone Pine. It's a Bureau of Land Management area (BLM), which means its protected, public land for you to enjoy. The area is covered in large, rounded rock formations, at the base of snow covered mountains. There are nearly 30,000 acres of wilderness for you to explore here, and dispersed camping is allowed for 14 days.&nbsp;
 
 There are several maintained dirt roads that you can choose from; I went down Movie Rd. Smaller roads branch off the main roads, and lead to campsites throughout the hills. I drove about a mile in until I found a branch on the left side that appealed to me. I followed it for another mile until I found a campsite surrounded by large rock outcroppings. It wasn't too busy in mid-March, so we pretty much had the area to ourselves. During the day, Sophie and I would climb around on all formations around us, just seeing what we could find and how far we could go. The Alabama Hills are like a giant playground on another world, I've never seen anything like it. The rock formations are a bit rough, which took a toll on Sophie's paws. Next time I might put her in dog boots.&nbsp;
 
