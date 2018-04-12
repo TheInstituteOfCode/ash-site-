@@ -53,7 +53,7 @@ There's no shade coverage which probably makes this an unpleasant summer spot, b
 
 ![](blob:https://app.cloudcannon.com/27965372-5421-4260-ba07-fcd34f6cad2e)
 
-**Virgin Dam**
+**Virgin Dam&nbsp;**
 
 On the way to Zion National Park is the small town of Virgin, Utah, and this site is just a few miles from there. The campsite is located on BLM land, and there are a few dirt roads off to the right that will take you into the area. The landscape is covered in mesas and canyons, and the elements that have eroded this region have also eroded the dirt roads. They are definitely on the rough side, especially for a van with low clearance like mine. There are several spots just off the highway, but I was feeling adventurous and probably went a little further down the dirt roads than I needed to. There were several moments where I muttered every bad word that I know, but luckily it all turned out okay. I found a perfect spot with incredible views and not a person in sight. Sophie and I enjoyed a gorgeous sunset, and the added bonus of cell service.
 
