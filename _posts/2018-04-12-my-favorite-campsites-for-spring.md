@@ -11,7 +11,7 @@ Spring is here and what better way to celebrate than to get outdoors! While not 
 
 ![](/uploads/untitled-1-of-1-4-4-1.jpg)
 
-As soon as the snow clears, I head straight for the forest. I arrived in Lassen National Forest in early April, and was expecting the forest roads to still be covered in snow. To my surprise, there was almost no snow on the ground at all. While cold at night, the temperature was in the 60's during the day. This tiny campground is located on the right, off highway 44, a few miles before you get to Old Station. It's also located along the Pacific Crest Trail, so you can hike along one of the world's most famous trails, and if you're lucky you might meet a thru-hiker! There are 5 designated spots around a vault toilet, which was locked when I visited. Only two of the sites have fire pits, and only one of those has a picnic table. This was my second visit to this campsite, and both times I've had the place to myself. It's only 20 minutes from the National Park, where you can hike Lassen Peak, the park's active volcano. The campground barely has service, so it's a nice place to go if you want a peaceful spot in the woods. The road is pretty close so there is occasional car noise, but not enough to keep me from coming back in the future.
+As soon as the snow clears, we head straight for the forest. I arrived in Lassen National Forest in early April, and was expecting the forest roads to still be covered in snow. To my surprise, there was almost no snow on the ground at all. While cold at night, the temperature was in the 60's during the day. This tiny campground is located on the right, off highway 44, a few miles before you get to Old Station. It's also located along the Pacific Crest Trail, so you can hike along one of the world's most famous trails, and if you're lucky you might meet a thru-hiker! There are 5 designated spots around a vault toilet, which was locked when I visited. Only two of the sites have fire pits, and only one of those has a picnic table. This was my second visit to this campsite, and both times I've had the place to myself. It's only 20 minutes from the National Park, where you can hike Lassen Peak, the park's active volcano. The campground barely has service, so it's a nice place to go if you want a peaceful spot in the woods. The road is pretty close so there is occasional car noise, but not enough to keep me from coming back in the future.
 
 **Cost- free!**
 
@@ -33,7 +33,7 @@ An incoming storm chased us out after just two nights, but I will definitely be 
 
 ![](/uploads/untitled-1-of-1-6-2-1.jpg)
 
-Located just outside the Valley of Fire state park near Overton, Nevada is the Snowbird Mesa. This area is also BLM land, and was the busiest campground, but for good reason. This mesa sits above a small town and has 360 degree views of the surrounding canyon. The sunrise and sunsets are incredible, and the cell service is great. If you're approaching from the Valley of Fire, there are two road options on the right; I took the second option that went up the dirt road. &nbsp;This road was slightly less busy, but I still had neighbors on three side, all about 150-200 feet away. I did, however, have cliff side parking and canyon views. Generally BLM land has a 14 day dispersed camping limit before you have to move to a new area, but there seem to be many permanent campers here. The area is very clean and fairly quiet, besides the occasional hum of a generator.&nbsp;
+Located just outside the Valley of Fire state park near Overton, Nevada is the Snowbird Mesa. This area is also BLM land, and was a busy campground, but for good reason. This mesa sits above a small town and has 360 degree views of the surrounding canyon. The sunrise and sunsets are incredible, and the cell service is great. If you're approaching from the Valley of Fire, there are two road options on the right; I took the second one that went up the dirt road. &nbsp;This road was slightly less busy, but I still had neighbors on three side, all about 150-200 feet away. I did, however, have cliff side parking and canyon views. Generally BLM land has a 14 day dispersed camping limit before you have to move to a new area, but there seem to be many permanent campers here. The area is very clean and fairly quiet, besides the occasional hum of a generator.&nbsp;
 
 There's no shade coverage which probably makes this an unpleasant summer spot, but I definitely recommend this campground for late fall to early spring!
 
@@ -50,3 +50,7 @@ On the way to Zion National Park is the small town of Virgin, Utah, and this sit
 Being just 20 minutes from the entrance to Zion means this spot probably gets pretty busy during summer, but during the low season you can find beautiful camping in a great location.&nbsp;
 
 **Cost- free!**
+
+With mild temperatures and nature in bloom, spring is one of the best times to go camping. Beautiful, free spots are all over the place if you're willing to find them. Campendium and Allstays are great apps that can help you find free campgrounds all over the country. Pack your bags and go see what you can find out there!
+
+&nbsp;
