@@ -43,14 +43,27 @@ photos:
     </div>
     {% for photo in page.photos %}
     <div class="brick">
-      <a href="{{photo.high-res_path}}" data-lightbox="{{page.title}}">
-        <img src="{{photo.path}}" alt="{{photo.description}}">
-      </a>
+      <img src="{{photo.path}}" alt="{{photo.description}}">
       <div class="dark-sec photo_description">
-       <p>
-         {{photo.description}}
-       </p>
+        <button
+    class="snipcart-add-item"
+    data-item-id="{{ forloop.index }}"
+    data-item-name="{{photo.title}}"
+    data-item-price="103.00"
+    data-item-weight="20"
+    data-item-url="{{page.url}}"
+    data-item-description="{{photo.description}}"
+    data-item-custom1-name="Print material"
+    data-item-custom1-options="{{page.photo_material}}"
+    data-item-custom2-name="Size"
+    data-item-custom2-options="{{page.photo_size}}"
+    data-item-custom2-value="Medium">
+         Buy prints
+ </button>
       </div>
     </div>
     {% endfor %}
   </section>
+
+
+  <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="YzZhZGQ1ZTUtNGY4Ny00ZjI4LThkMjgtOGQwMTY2ZTI5M2RjNjM2MDgwODI0Nzg4OTg2OTc0" id="snipcart"></script>
