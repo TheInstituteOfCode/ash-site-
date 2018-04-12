@@ -51,7 +51,7 @@ There's no shade coverage which probably makes this an unpleasant summer spot, b
 
 &nbsp;
 
-&nbsp;
+![](/uploads/untitled-1-of-1-12-4.jpg)
 
 **Virgin Dam&nbsp;**
 
