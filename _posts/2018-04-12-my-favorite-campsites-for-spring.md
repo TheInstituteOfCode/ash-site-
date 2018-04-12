@@ -2,6 +2,10 @@
 layout: post
 title: My Favorite Campsites for Spring
 banner_path: /uploads/untitled-1-of-1-4-6.jpg
+banner: true
+banner_path: /uploads/untitled-1-of-1-21-1.jpg
+banner_vertical_focus: 50%
+banner_horizontal_focus: 50%
 description: >-
   Spring is here and what better way to celebrate than to get outdoors! While
   not all areas are accessible yet, you can find great spring camping from the
