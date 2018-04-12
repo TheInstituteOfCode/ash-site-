@@ -325,6 +325,10 @@ input,textarea{
     text-align: center;
   }
 
+  .blog-pic{
+    min-height: calc(100vw - 6rem);
+  }
+
 }
 
 
