@@ -2,6 +2,7 @@
 layout: default
 photo_material: papper|metal[+5]
 photo_size: 4|5[+7]|6[+8]|7[+12]
+metal_photo_size: 4|5[+7]|6[+8]|7[+12]
 photos:
   - path: /uploads/untitled-1-of-1-12-1-1.jpg
     description: Crossing the Mesquite Dunes
@@ -16,7 +17,7 @@ photos:
     {% for photo in page.photos %}
     <div class="brick">
       <img src="{{photo.path}}" alt="{{photo.description}}">
-      <div class="dark-sec photo_description">
+      <div class="dark-sec photo_description center">
         <button
     class="snipcart-add-item"
     data-item-id="{{ forloop.index }}"
@@ -30,8 +31,21 @@ photos:
     data-item-custom2-name="Size"
     data-item-custom2-options="{{page.photo_size}}"
     data-item-custom2-value="Medium">
-         Buy prints
+         Buy print
  </button>
+ <button
+class="snipcart-add-item"
+data-item-id="{{ forloop.index }}"
+data-item-name="metal {{photo.title}}"
+data-item-price="303.00"
+data-item-weight="20"
+data-item-url="{{page.url}}"
+data-item-description="{{photo.description}}"
+data-item-custom2-name="Size"
+data-item-custom2-options="{{page.metal_photo_size}}"
+data-item-custom2-value="Medium">
+  Buy Metalic print
+</button>
       </div>
     </div>
     {% endfor %}
