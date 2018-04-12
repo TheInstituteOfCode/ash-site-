@@ -61,6 +61,8 @@ Being just 20 minutes from the entrance to Zion means this spot probably gets pr
 
 **Cost- free!**
 
+&nbsp;
+
 With mild temperatures and nature in bloom, spring is one of the best times to go camping. Beautiful, free spots are all over the place if you're willing to find them. Campendium and Allstays are great apps that can help you find free campgrounds all over the country. Pack your bags and go see what you can find out there!
 
 &nbsp;
