@@ -1,9 +1,8 @@
 ---
 layout: post
 title: My Favorite Campsites for Spring
-banner_path: /uploads/untitled-1-of-1-4-6.jpg
+banner_path: /uploads/untitled-1-of-1-8-4.jpg
 banner: true
-banner_path: /uploads/untitled-1-of-1-21-1.jpg
 banner_vertical_focus: 50%
 banner_horizontal_focus: 50%
 description: >-
