@@ -3,7 +3,7 @@ layout: post
 title: My Favorite Campsites for Spring
 banner_path: /uploads/untitled-1-of-1-8-4.jpg
 banner: true
-banner_vertical_focus: 50%
+banner_vertical_focus: 70%
 banner_horizontal_focus: 50%
 description: >-
   Spring is here and what better way to celebrate than to get outdoors! While
