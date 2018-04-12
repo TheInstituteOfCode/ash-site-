@@ -37,7 +37,7 @@ An incoming storm chased us out after just two nights, but I will definitely be 
 
 **Snowbird Mesa**
 
-![](/uploads/untitled-1-of-1-6-2-1.jpg)
+![](blob:https://app.cloudcannon.com/598f708e-c6c2-40de-9d60-193895192ae8)
 
 Located just outside the Valley of Fire state park near Overton, Nevada is the Snowbird Mesa. This area is also BLM land, and was a busy campground, but for good reason. This mesa sits above a small town and has 360 degree views of the surrounding canyon. The sunrise and sunsets are incredible, and the cell service is great. If you're approaching from the Valley of Fire, there are two road options on the right; I took the second one that went up the dirt road. &nbsp;This road was slightly less busy, but I still had neighbors on three side, all about 150-200 feet away. I did, however, have cliff side parking and canyon views. Generally BLM land has a 14 day dispersed camping limit before you have to move to a new area, but there seem to be many permanent campers here. The area is very clean and fairly quiet, besides the occasional hum of a generator.&nbsp;
 
