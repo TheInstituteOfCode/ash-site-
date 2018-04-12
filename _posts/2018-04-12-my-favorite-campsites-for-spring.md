@@ -17,7 +17,7 @@ As soon as the snow clears, I head straight for the forest. I arrived in Lassen 
 
 **Alabama Hills&nbsp;**
 
-![](blob:https://app.cloudcannon.com/bfa10f7e-c25e-47aa-8d8e-b16fd53b2fb2)
+![](/uploads/untitled-1-of-1-7-3.jpg)
 
 This was my first visit to the Alabama Hills and I absolutely loved it there! The Alabama Hills are a recreation area in the Eastern Sierras of Californian just outside the town of Lone Pine. It's a Bureau of Land Management area (BLM), which means its protected, public land for you to enjoy. The area is covered in large, rounded rock formations, at the base of snow covered mountains. There are nearly 30,000 acres of wilderness for you to explore here, and dispersed camping is allowed for 14 days.&nbsp;
 
