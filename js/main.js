@@ -6,6 +6,11 @@ $(document).ready(function() {
     gutter: 20,
     originLeft: false
   });
+  $('.wall-r').masonry({
+    // options
+    itemSelector: '.brick',
+    gutter: 20
+  });
 window.onload = function() {
 
   $('.wall').delay(200).masonry({
@@ -13,6 +18,12 @@ window.onload = function() {
     itemSelector: '.brick',
     gutter: 20,
     originLeft: false,
+    stagger: 30
+  });
+  $('.wall-r').delay(200).masonry({
+    // options
+    itemSelector: '.brick',
+    gutter: 20,
     stagger: 30
   });
 

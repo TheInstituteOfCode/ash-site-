@@ -295,25 +295,25 @@ input,textarea{
 .brick{
   width: 300px;
 }
-.wall{
+.wall,.wall-r{
  max-width: 1260px;
  margin: auto;
  padding: 2rem 0;
 }
 
 @media all and (max-width: 1300px) {
-  .wall{
+  .wall,.wall-r{
    max-width: 940px;
 }
 
 @media all and (max-width: 1000px) {
-  .wall{
+  .wall,.wall-r{
    max-width: 620px;
 }
 
 
 @media all and (max-width: 700px) {
-  .wall{
+  .wall,.wall-r{
    max-width: 300px;
 }
 
