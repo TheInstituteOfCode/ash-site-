@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How to Choose a Van
+banner: true
 banner_path: /uploads/untitled-1-of-1-21-1.jpg
+banner_vertical_focus: 50%
+banner_horizontal_focus: 50%
 description: >-
   So, you’ve finally decided to buy a van. Hooray! Congratulations and let me
   officially welcome you to the van life nation! So where do you go from here?
