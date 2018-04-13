@@ -284,6 +284,9 @@ input,textarea{
   display: block;
   margin: 2rem auto .2rem;
 }
+.blog h2{
+  text-align: center;
+}
 .blog h6{
   font-size: 10px;
   text-align: center;
