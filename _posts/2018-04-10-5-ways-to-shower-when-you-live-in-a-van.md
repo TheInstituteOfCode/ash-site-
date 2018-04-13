@@ -16,9 +16,9 @@ One of the first questions people have when I tell them I live in a van, is "how
 
 **Buy or build a van that has a shower**
 
-If you're converting a sprinter can, they usually have enough room that you can allocate space for a shower. Some people add a toilet as well, but that adds extra work that not everyone wants to deal with. If you decide to purchase a new travel van, it will most likely have a bathroom. Even the older models of travel vans, like my 2003 Pleasure Way, have a toilet and convertible shower inside the van.&nbsp;
-
 ![](/uploads/untitled-1-of-1-16-3.jpg)
+
+If you're converting a sprinter can, they usually have enough room that you can allocate space for a shower. Some people add a toilet as well, but that adds extra work that not everyone wants to deal with. If you decide to purchase a new travel van, it will most likely have a bathroom. Even the older models of travel vans, like my 2003 Pleasure Way, have a toilet and convertible shower inside the van.&nbsp;
 
 **Purchase a portable shower**
 
