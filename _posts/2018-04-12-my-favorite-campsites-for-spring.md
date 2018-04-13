@@ -17,7 +17,7 @@ Spring is here and what better way to celebrate than to get outdoors! While not 
 
 ![](/uploads/untitled-1-of-1-15-2-1.jpg)
 
-**Mud Lake Trailhead&nbsp;**
+## **Mud Lake Trailhead&nbsp;**
 
 As soon as the snow clears, we head straight for the forest. I arrived in Lassen National Forest in early April, and was expecting the forest roads to still be covered in snow. To my surprise, there was almost no snow on the ground at all. While cold at night, the temperature was in the 60's during the day. This tiny campground is located on the right, off highway 44, a few miles before you get to Old Station. It's also located along the Pacific Crest Trail, so you can hike along one of the world's most famous trails, and if you're lucky you might meet a thru-hiker! There are 5 designated spots around a vault toilet, which was locked when I visited. Only two of the sites have fire pits, and only one of those has a picnic table. This was my second visit to this campsite, and both times I've had the place to myself. It's only 20 minutes from the National Park, where you can hike Lassen Peak, the park's active volcano. The campground barely has service, so it's a nice place to go if you want a peaceful spot in the woods. The road is pretty close so there is occasional car noise, but not enough to keep me from coming back in the future.
 
