@@ -3,7 +3,7 @@ layout: post
 title: 5 Ways to Shower When You Live in a Van
 banner: true
 banner_path: /uploads/untitled-1-of-1-12-5.jpg
-banner_vertical_focus: 50%
+banner_vertical_focus: 80% 100%
 banner_horizontal_focus: 20%
 description: >-
   One of the first questions people have when I tell them I live in a van, is
