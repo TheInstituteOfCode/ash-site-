@@ -26,9 +26,9 @@ If you're converting a sprinter can, they usually have enough room that you can 
 
 **Stay at campgrounds that have showers**
 
-This is an expensive option, especially if you're on a budget, but the occasional campground is a nice way to take a hot shower. KOA campgrounds are a great choice as they offer laundry facilities and have water and dumps. You can save money by paying for a tent site if you don't need any RV hook-ups.&nbsp;
-
 ![](/uploads/untitled-1-of-1-17-1-2.jpg)
+
+This is an expensive option, especially if you're on a budget, but the occasional campground is a nice way to take a hot shower. KOA campgrounds are a great choice as they offer laundry facilities and have water and dumps. You can save money by paying for a tent site if you don't need any RV hook-ups. The campground featured above didn't actually have a shower, but it was pretty enough to include.
 
 **Get a gym membership**
 
