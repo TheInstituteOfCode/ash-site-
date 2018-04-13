@@ -308,10 +308,12 @@ input,textarea{
   .wall, .wall-r{
    max-width: 940px;
 }
+}
 
 @media all and (max-width: 1000px) {
   .wall,.wall-r{
    max-width: 620px;
+}
 }
 
 
@@ -319,11 +321,12 @@ input,textarea{
   .wall,.wall-r{
    max-width: 300px;
 }
+}
 
 
 /* mobile */
 
-@media all and (max-width: 768px){
+@media all and (max-width: 769px){
   .mob-center{
     text-align: center;
   }
@@ -336,6 +339,10 @@ input,textarea{
 
 
 @media all and (max-width: 576px){
+  .banner{
+  background-attachment: scroll;
+  }
+
   section{
     padding: 3rem 10%
   }
@@ -349,11 +356,12 @@ input,textarea{
   .mob-hide{
     display: none
   }
+
   .mob-flip{
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
         -ms-flex-direction: column-reverse;
             flex-direction: column-reverse;
   }
+
 }
-}}}
