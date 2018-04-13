@@ -1,6 +1,7 @@
 ---
 layout: trips
 title: 'Alberta, Canada'
+sub_title: bob
 date: 2018-03-07 00:00:00
 banner: true
 banner_path: /uploads/untitled-1-of-1-21-1.jpg
