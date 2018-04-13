@@ -4,7 +4,7 @@ title: 'Alberta, Canada'
 sub_title: bob
 date: 2018-03-07 00:00:00
 banner: true
-banner_path: /uploads/untitled-1-of-1-21-1.jpg
+banner_path: /uploads/untitled-1-of-1-8-5.jpg
 banner_vertical_focus: 50%
 banner_horizontal_focus: 50%
 photos:
@@ -48,3 +48,4 @@ text: >-
   ice-fishing, snowshoeing, or any other winter sport you've been dreaming of.
   Alberta truly is a winter wonderland!
 ---
+
