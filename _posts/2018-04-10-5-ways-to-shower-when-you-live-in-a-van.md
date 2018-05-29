@@ -38,9 +38,9 @@ This is an expensive option, especially if you're on a budget, but the occasiona
 
 ## **Get a gym membership**
 
-There are a few chain gyms that have multiple locations around the west coast. I think Planet Fitness offers memberships for around $20 per month, but I opted for Anytime Fitness. They're more expensive ($45) but they have more locations to choose from. Most locations are accessible 24/7 and have clean, spacious showers to use. Plus you can get a workout too!
+![](/uploads/dsc00301.jpg)There are a few chain gyms that have multiple locations around the west coast. I think Planet Fitness offers memberships for around $20 per month, but I opted for Anytime Fitness. They're more expensive ($45) but they have more locations to choose from. Most locations are accessible 24/7 and have clean, spacious showers to use. Plus you can get a workout too!
 
-![](/uploads/dsc00301.jpg)
+## &nbsp;
 
 ## **Bathe in lakes, rivers, and streams**
 
