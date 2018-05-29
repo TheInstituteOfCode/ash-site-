@@ -44,11 +44,15 @@ This is an expensive option, especially if you're on a budget, but the occasiona
 
 ## **Bathe in lakes, rivers, and streams**
 
+&nbsp;
+
 If the weather is nice, take advantage of bathing in the great outdoors. Make sure you're only using biodegradable soaps, like [Dr. Bronner's](https://www.amazon.com/gp/product/B001B0TLYE/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001B0TLYE&amp;linkCode=as2&amp;tag=ashleyandthev-20&amp;linkId=93715a1e0a5d86739f0d277732e03b1e), so you don't damage the environment. This option isn't always available year-round, so if you get the chance, go for it!
 
 &nbsp;
 
 ## Use baby wipes
+
+&nbsp;
 
 This last one isn't really an option for me, but some vanlifers go the classic camping route of freshening up with wet wipes. Every time I try using them, I just feel slightly less gross, not necessarily clean. Wet wipes are an emergency option for me, and I don't recommend using them as your only cleaning method.
 
