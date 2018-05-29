@@ -1,7 +1,7 @@
 ---
 layout: trips
 title: 'Alberta, Canada'
-sub_title: bob
+sub_title: Somewhere in the Canadian Rockies
 date: 2018-03-07 00:00:00
 banner: true
 banner_path: /uploads/untitled-1-of-1-3-3.jpg
