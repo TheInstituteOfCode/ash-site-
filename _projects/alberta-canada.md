@@ -4,7 +4,7 @@ title: 'Alberta, Canada'
 sub_title: bob
 date: 2018-03-07 00:00:00
 banner: true
-banner_path: /uploads/untitled-1-of-1-8-5.jpg
+banner_path: /uploads/untitled-1-of-1-2-2-1.jpg
 banner_vertical_focus: 50%
 banner_horizontal_focus: 50%
 photos:
@@ -44,7 +44,7 @@ text: >-
   to yourself. Visit Banff to watch sunrise over Vermillion Lakes, and drive the
   Icefields Parkway towards Jasper to marvel at the frozen waterfalls and
   snow-covered peaks. Detour to Abraham Lake, where you can view frozen methane
-  bubbles under the lakes surface. Try your hand at skiing, snowboarding,
+  bubbles under the lake surface. Try your hand at skiing, snowboarding,
   ice-fishing, snowshoeing, or any other winter sport you've been dreaming of.
   Alberta truly is a winter wonderland!
 ---
