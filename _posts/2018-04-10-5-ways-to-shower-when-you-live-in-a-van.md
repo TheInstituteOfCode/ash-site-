@@ -38,7 +38,7 @@ This is an expensive option, especially if you're on a budget, but the occasiona
 
 ## **Get a gym membership**
 
-![](/uploads/dsc00301.jpg)There are a few chain gyms that have multiple locations around the west coast. I think Planet Fitness offers memberships for around $20 per month, but I opted for Anytime Fitness. They're more expensive ($45) but they have more locations to choose from. Most locations are accessible 24/7 and have clean, spacious showers to use. Plus you can get a workout too!
+![](/uploads/dsc00301.jpg)There are a few chain gyms that have multiple locations around the west coast. I think Planet Fitness offers memberships for around $20 per month, but I opted for Anytime Fitness. They're more expensive (about $45) but they have more locations to choose from. Most locations are accessible 24/7 and have clean, spacious showers to use. Plus you can get a workout too!
 
 ## &nbsp;
 
@@ -51,5 +51,7 @@ If the weather is nice, take advantage of bathing in the great outdoors. Make su
 ## Use baby wipes
 
 This last one isn't really an option for me, but some vanlifers go the classic camping route of freshening up with wet wipes. Every time I try using them, I just feel slightly less gross, not necessarily clean. Wet wipes are an emergency option for me, and I don't recommend using them as your only cleaning method.
+
+&nbsp;
 
 There are many ways to stay clean while living in a van! It's definitely not as easy as walking into a house shower and just turning hot water on, but with a little effort you can still maintain good hygiene while living on the road!
