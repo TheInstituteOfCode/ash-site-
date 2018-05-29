@@ -54,7 +54,7 @@ If the weather is nice, take advantage of bathing in the great outdoors. Make su
 
 &nbsp;
 
-This last one isn't really an option for me, but some vanlifers go the classic camping route of freshening up with [wet wipes](&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=ashleyandthev-20&amp;marketplace=amazon&amp;region=US&amp;placement=B074DYPZYK&amp;asins=B074DYPZYK&amp;linkId=e2e10741bd16c86ac63a559636fbc431&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff&quot;&gt;     &lt;/iframe&gt;). Every time I try using them, I just feel slightly less gross, not necessarily clean. Wet wipes are an emergency option for me, and I don't recommend using them as your only cleaning method.
+This last one isn't really an option for me, but some vanlifers go the classic camping route of freshening up with [wet wipes](https://www.amazon.com/gp/product/B074DYPZYK/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B074DYPZYK&amp;linkCode=as2&amp;tag=ashleyandthev-20&amp;linkId=58d46d4a5baa400374959b79743c63e5){: target="_blank"}. Every time I try using them, I just feel slightly less gross, not necessarily clean. Wet wipes are an emergency option for me, and I don't recommend using them as your only cleaning method.
 
 &nbsp;
 
