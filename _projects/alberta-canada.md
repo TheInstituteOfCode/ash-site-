@@ -4,7 +4,7 @@ title: 'Alberta, Canada'
 sub_title: Somewhere in the Canadian Rockies
 date: 2018-03-07 00:00:00
 banner: true
-banner_path: /uploads/untitled-1-of-1-8-5.jpg
+banner_path: /uploads/untitled-1-of-1-12-2.jpg
 banner_vertical_focus: 50%
 banner_horizontal_focus: 50%
 photos:
