@@ -14,7 +14,7 @@ description: >-
 
 One of the first questions people have when I tell them I live in a van, is "how do you shower?" This was my first question as well, so after a little research, I put together a list of the 5 best ways to shower when you live in a van.
 
-## **Buy or build a van that has a shower**
+## **Buy or build a van with a shower**
 
 ![](/uploads/untitled-1-of-1-16-3.jpg)
 
