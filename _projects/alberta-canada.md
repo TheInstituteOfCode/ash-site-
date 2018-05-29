@@ -5,7 +5,7 @@ sub_title: Somewhere in the Canadian Rockies
 date: 2018-03-07 00:00:00
 banner: true
 banner_path: /uploads/untitled-1-of-1-10-2-1.jpg
-banner_vertical_focus: 80%
+banner_vertical_focus: 100%
 banner_horizontal_focus: 50%
 photos:
   - path: /uploads/untitled-1-of-1-2-2-1.jpg
