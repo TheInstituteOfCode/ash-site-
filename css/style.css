@@ -304,6 +304,9 @@ input,textarea{
 .brick{
   width: 300px;
 }
+.brick a{
+  width: 100%;
+}
 .wall, .wall-r{
  max-width: 1260px;
  margin: auto;
