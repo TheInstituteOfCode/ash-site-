@@ -8,13 +8,13 @@ banner_horizontal_focus: 50%
 ---
 
 <section class="editable">
-    <h2>The adventures of a girl, her dog, and their van</h2>
-    <hr />
-    <p>Hey everyone! My name is Ashley and I'm a California girl in my 20s. Last summer I decided to sell my belongings, let go of my apartment and pursue a life of adventure. I bought a van and moved into it, along with my best friend and co-pilot, Sophie. We now live full-time on the road, chasing beautiful sunrises and sunsets across North America. I'm so excited to have you along for the journey and hope to inspire you to create your own adventures!&nbsp;</p>
-    <p>&nbsp;</p>
-    <div class="center"><img src="/uploads/untitled-1-of-1-19-1.jpg" /></div>
-    <p>&nbsp;</p>
-  </section>
+  <h2>The adventures of a girl, her dog, and their van</h2>
+  <hr />
+  <p>Hey everyone! My name is Ashley and I'm a California girl in my 20s. Last summer I decided to sell my belongings, let go of my apartment and pursue a life of adventure. I bought a van and moved into it, along with my best friend and co-pilot, Sophie. We now live full-time on the road, chasing beautiful sunrises and sunsets across North America. I'm so excited to have you along for the journey and hope to inspire you to create your own adventures!&nbsp;</p>
+  <p>&nbsp;</p>
+  <div class="center"><img src="/uploads/untitled-1-of-1-19-1.jpg" /></div>
+  <p>&nbsp;</p>
+</section>
 
 
 <section class="flexfliper">
@@ -24,33 +24,41 @@ banner_horizontal_focus: 50%
   {% for gal in gal reversed limit:4 %}
   <div class="grid-top padded-2">
     <div class="col-5_sm-12 right">
-      <h3>{{gal.title}}</h3>
+      <a href="{{gal.url}}">
+        <h3>{{gal.title}}</h3>
+      </a>
       <p>{{gal.description}}</p>
       <a href="{{gal.url}}">see more</a>
     </div>
     <div class="col-7_sm-12 grid">
       <div class="col-8">
-        <div class="photo-1-bg" style="background-image:url({% for photos in gal.photos limit:1 %}
-        {{photos.path}}
-        {% endfor %}
-        )">
-        </div>
-      </div>
-      <div class="col-4">
-        <div class="photo-2-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:1 %}{{photos.path}}
-        {% endfor %})">
-        </div>
-      </div>
-      <div class="col-12">
-        <div class="photo-3-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:2 %}{{photos.path}}
-        {% endfor %})">
-        </div>
+        <a href="{{gal.url}}">
+          <div class="photo-1-bg" style="background-image:url({% for photos in gal.photos limit:1 %}
+          {{photos.path}}
+          {% endfor %}
+          )">
+        </a>
       </div>
     </div>
+    <div class="col-4">
+      <a href="{{gal.url}}">
+        <div class="photo-2-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:1 %}{{photos.path}}
+        {% endfor %})">
+      </a>
+    </div>
   </div>
-  {% endfor %}
-  <div class="right">
-    <a href="/projects">See all my Portfolio</a>
+  <div class="col-12">
+    <a href="{{gal.url}}">
+      <div class="photo-3-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:2 %}{{photos.path}}
+      {% endfor %})">
+    </a>
   </div>
+</div>
+</div>
+</div>
+{% endfor %}
+<div class="right">
+  <a href="/projects">See all my Portfolio</a>
+</div>
 
 </section>
