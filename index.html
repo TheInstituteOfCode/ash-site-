@@ -45,14 +45,13 @@ banner_horizontal_focus: 50%
           {% endfor %})">
         </div>
       </div>
-    </a>
+
     <div class="col-12">
-      <a href="{{gal.url}}">
           <div class="photo-3-bg" style="background-image:url({% for photos in gal.photos limit:1 offset:2 %}{{photos.path}}
           {% endfor %})">
-        </a>
       </div>
     </div>
+  </a>
   </div>
 </div>
 {% endfor %}
